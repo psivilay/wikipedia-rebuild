@@ -1,0 +1,8 @@
+.sidebar {
+  float: left;
+  background-color: lightgray;
+}
+
+.nav-tabs {
+  font-size: 12px;
+}
